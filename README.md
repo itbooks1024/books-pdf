@@ -13,7 +13,7 @@ C Primer Plus（第六版）中文版 &nbsp;&nbsp;&nbsp;&nbsp;[百度云下载�
 
 C和指针英文版 &nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1XppJ61syqwoBsIdj7UDERA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码： 25r7 
 
-C和指针中文版 &nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/10ovq1bw0ru3pIQRFR64ngQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：8pt3 
+C和指针中文版 &nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1YjQ3_mgJWe23jyB7nYJNXg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：nd6x 
 
 C语言程序设计 谭浩强（第四版）&nbsp;&nbsp;&nbsp;&nbsp;[百度云下载链接](https://pan.baidu.com/s/1NDKQE4Z0pZEcCdI8IrjgzQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：5xwh 
 
