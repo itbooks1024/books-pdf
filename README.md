@@ -94,6 +94,18 @@ Java Message Service(JMS) &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https
 
 实战Java高并发程序设计 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1a2xEsVEKNGzYH_Bnpfv9Ew) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：6rj5 
 
+## Netty
+
+深入浅出Netty &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hOMErh0kJQHLdF9O3nU_Ew) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：atrr
+
+Netty实战(Netty IN ACTION) (诺曼·毛瑞尔) 中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1-SlDl7UTC4X7gKamF59dhQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：qmu4 
+
+Netty权威指南 第1版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1oGXaXfrDshl_bNyvrtqLQQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：mz3j 
+
+Netty权威指南 第2版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1L4Gr892gHVMXcX3IEyhLwA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：5cs5 
+
+Netty5.0架构剖析和源码解读 李林锋 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1JPzO9QkdOt6iJsDKby9NoA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：6iad 
+
 ## 前端
 
 HTML5 CSS3 JavaScript从入门到精通 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Vb7_22IBMnX88pAcTW_6qQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：g3pz  
