@@ -94,6 +94,20 @@ Java Message Service(JMS) &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https
 
 实战Java高并发程序设计 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1a2xEsVEKNGzYH_Bnpfv9Ew) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：6rj5 
 
+## MyBatis
+
+Mybatis教程 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1ooeZ9geB4uAEQC-W_TY1Pw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：8h3f 
+
+MyBatis3用户指南中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/145eXz7RuEZslEcy_LMs8Ag) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：m4dt 
+
+MyBatis从入门到精通__刘增辉 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1BEBMyGkhODaSzCQ_MrrTOQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：78vv 
+
+Mybatis_3中文用户指南 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1PSveqoXLOlfTB6ECax7Huw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：y27y 
+
+MyBatis技术内幕 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/18ntO51AXWHIV3Lu6S5UWow) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：d9wj 
+
+深入浅出MyBatis技术原理与实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1t0EQbSKIEUlkQ-s4kYlTZg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：qafn 
+
 ## Netty
 
 深入浅出Netty &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hOMErh0kJQHLdF9O3nU_Ew) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：atrr
@@ -141,6 +155,24 @@ SpringBoot揭秘快速构建微服务体系 &nbsp;&nbsp;&nbsp;&nbsp; [百度云�
 深入浅出Spring Boot 2.x 杨开振 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1N1Uw4gXzooJBjfjR1KSvXA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：mrqn 
 
 深入实践Spring Boot.陈韶健 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1tpVPBRrItUpoX5jCPBES_g) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ssxx 
+
+## Spring Cloud
+
+Spring Cloud微服务实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1p4QE1ZXzTj_jmJAmNCUDdQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：3xk5 
+
+疯狂Spring Cloud微服务架构实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1YSolq83M7Uhmzq0ElFFa5g) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：hs4e 
+
+深入理解Spring Cloud与微服务构建 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DupmJp7XfIpb_Q5cMlguxQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：pi89 
+
+重新定义Spring Cloud实战 许进 nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1bYHt7EvAh76drKAAxQN4Mg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ph88 
+
+Spring Cloud与Docker微服务架构实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1sBpFxXa4Z8asE5v80KYvXw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：cj63 
+
+微服务分布式构架开发实战 龚鹏 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1sG1FTtBBAwOqjLS2Hiu9Fg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：8hdc 
+
+微服务架构基础 Spring Boot+Spring Cloud+Docker 黑马程序员 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1mLNTzU8vghZyxjV4ealjIg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：wz9k 
+
+Spring Cloud微服务架构开发实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DyBIn360smNdbPco2EuHOg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：4yei
 
 ## 前端
 
