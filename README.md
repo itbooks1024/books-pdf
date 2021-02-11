@@ -108,6 +108,18 @@ MyBatis技术内幕 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan
 
 深入浅出MyBatis技术原理与实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1t0EQbSKIEUlkQ-s4kYlTZg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：qafn 
 
+## MySQL
+
+MySQL必知必会 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Dyua8EkgxSYqBfg87VKDQg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：fgt4
+
+高性能mysql第三版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hxZ3yZtQFpRjqpf4TStLFg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gi2f 
+
+MySQL技术内幕 InnoDB存储引擎 第2版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Bw_ykdHBcyLdw9cJ-P4bAQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：jdew
+
+深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1IlNpYC236jgBaWfxx4GN1A) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：cxbg 
+
+SQL查询的艺术 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1vdib-IFgo-u1FuYJ2PKF3w) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：2c8r 
+
 ## Netty
 
 深入浅出Netty &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hOMErh0kJQHLdF9O3nU_Ew) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：atrr
@@ -176,9 +188,29 @@ Spring Cloud微服务架构开发实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下�
 
 ## 前端
 
+HTML5揭秘 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Iss-6B57XeKMIT0t7Exh2w) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：1wsz 
+
+HTML5与CSS3基础教程（第8版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1dSnTi6ewXoq2kXaVhSxHtw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：2vkc 
+
 HTML5 CSS3 JavaScript从入门到精通 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Vb7_22IBMnX88pAcTW_6qQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：g3pz  
 
+Bootstrap实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1HZlEBUsrDVZmOcTKiZfAdg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ihka 
+
+JavaScript高级程序设计中文版（第3版） &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1evF9biOqJXjF8w0pg2o9Ig) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：yt5u 
+
 JavaScript权威指南(第七版) &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/19uufFpNAg1_-gn-7wsyiBw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：x96j 
+
+JavaScript.DOM编程艺术（第2版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Zfx59kGfxWRn6YhV9xk8kQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：6atv 
+
+Javascript 高效图形编程-中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1fyqbINk3G4MQYU6UcUsVgQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gkkc 
+
+jQuery权威指南 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/15mBHlcNh8oUUjaEduQRcyw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：d6hd 
+
+jQuery高级编程中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1AdcMBJeQfvaFM5YW0rM3Hg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：k9b1 
+
+疯狂ajax讲义 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/16_jAVayqISgsEjAhXtPFYw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：8bkv 
+
+Node.js开发指南 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1h8hbnjCwgquMt9qw1vfNjg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：3qw4 
 
 Angular 2 Core &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/14BouZwhsXayNsCj4AUWj1g) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ehfg 
 
