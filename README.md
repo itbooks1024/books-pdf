@@ -246,6 +246,20 @@ AngularJS开发下一代Web应用 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链�
 
 AngularJS权威教程  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Q6vxI7Kz8Jy-7ER1-YqZkg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ec89 
 
+## 人工智能
+
+Python机器学习实践  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1-of5lRHUfH8dvZ6sf1t_kw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：tbmy 
+ 
+机器学习实战  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1xlO6f84hZXPthhE2HdiYSQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：wup2 
+
+深度学习 中文版  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1PT_RFaRSy2YqaG8MwdzEFQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：qcn5 
+
+贝叶斯思维统计建模的Python学习法  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1CELUGbf4fthWQy91tMS-TQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：mmeu 
+
+Tensorflow 实战Google深度学习框架  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/16dII5XJ2yAHF0EK0IBQq3A) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：5uqc 
+
+TensorFlow实践与智能系统  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1ZnJU2n8yk6rCC7M2NYnrnQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：2nrj 
+
 ## 数据结构与算法
 
 C++数据结构与算法 （第4版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1BYgI-V8iDxfMoMBBxxFCwg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：29fr 
