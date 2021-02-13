@@ -51,6 +51,14 @@ apache-solr-ref-guide-7.1 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https
 
 ## Git
 
+Git参考手册 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1C4p0QbXle2izR5jmVOei1A) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：p26s 
+
+快速入门Git &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1FRDJcRttb_GgHB5ISV8jHA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：m75k 
+
+Pro Git 第二版（中文版） &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1YWh2B_UFfl_u1O5De6ofCw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：p5cu 
+
+专业git中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/17G-BWtW4vg0psS5a_bJwvg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：7gy1
+
 git_cheatsheet &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1tNLthh2ZCxAtwj1DcJE3SQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：h4qq 
 
 Git的奇技淫巧 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1w3QtNlAfNWgUbDIMfBD0Dw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：8utg 
@@ -185,6 +193,24 @@ Spring Cloud与Docker微服务架构实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云�
 微服务架构基础 Spring Boot+Spring Cloud+Docker 黑马程序员 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1mLNTzU8vghZyxjV4ealjIg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：wz9k 
 
 Spring Cloud微服务架构开发实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DyBIn360smNdbPco2EuHOg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：4yei
+
+## 操作系统
+
+计算机操作系统第三版(原版) 汤小丹 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1dauK4Y0zhro6AdwYdbUEkA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gfds 
+
+现代操作系统（第3版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1d0XltqhXVJGuD5RCZ_HBsA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：vxd2 
+
+现代操作系统（第4版） &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Vl6LBQbKoT0IpTVpmSW_BA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ek27 
+
+深入理解计算机操作系统 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DWkz14vT1UEoOFnqjB9TlQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：wgzc 
+
+操作系统概念 第7版 中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1TaBpQKkB52Wx2Y4af86kUA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：22a3 
+
+操作系统之哲学原理 第2版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1luajQjiOzT36VprOOEzT3Q) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：fg3x
+
+程序是怎样跑起来的 图解趣味版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1LmYeB1ZjUuvDzDPsdGoIgA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：nher 
+
+30天自制操作系统 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1ZcygE2YH2HB-0ohRTGz_4Q) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ji8e 
 
 ## 前端
 
