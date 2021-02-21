@@ -120,6 +120,8 @@ MyBatis技术内幕 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan
 
 MySQL必知必会 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Dyua8EkgxSYqBfg87VKDQg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：fgt4
 
+MySQL性能调优与架构设计 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1kAFjFT36CyXE2AW0UYHPVQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：92gi
+
 高性能mysql第三版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hxZ3yZtQFpRjqpf4TStLFg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gi2f 
 
 MySQL技术内幕 InnoDB存储引擎 第2版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Bw_ykdHBcyLdw9cJ-P4bAQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：jdew
