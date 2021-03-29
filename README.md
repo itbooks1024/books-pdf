@@ -43,7 +43,6 @@ Elasticsearch服务器开发（第2版） &nbsp;&nbsp;&nbsp;&nbsp; [百度云下
 
 Learning ELK Stack 中文版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1kVAbhyZ-RmQHcLGM8RaBtA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：d9mi 
 
-深入浅出ES6  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/18zFN4p5_xybxGD4yhhL7sQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ei3q 
 
 搜索引擎核心技术与实现(基于Lucene和Solr) &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1IeEBLkYwk3RzidhCM_siKw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：pqyt 
 
@@ -247,6 +246,8 @@ Angular JS高级编程（英文原版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下�
 AngularJS开发下一代Web应用 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1jVaj6bIjqOPK5cUAROMGig) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：yik9 
 
 AngularJS权威教程  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Q6vxI7Kz8Jy-7ER1-YqZkg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ec89 
+
+深入浅出ES6  &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/18zFN4p5_xybxGD4yhhL7sQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ei3q 
 
 ## 人工智能
 
