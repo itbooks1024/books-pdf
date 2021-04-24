@@ -1,6 +1,6 @@
 # 经典程序员编程类电子书免费下载
 
-## 辛苦整理，求个star，多谢！！！
+## 整理那么辛苦，求个star，多谢！！！
 
 计算机类的书籍非常贵，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。同时很多小伙伴不知道哪些书是经典，哪些是辣鸡，作为一个10年程序老鸟，我深知看书，看好书重要性。
 
@@ -272,6 +272,10 @@ C++数据结构与算法 （第4版）&nbsp;&nbsp;&nbsp;&nbsp; [百度云下载�
 Java数据结构和算法-第二版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1z2jowWLNbtBg0Kz8PTIjjg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：avru 
 
 数据结构C语言版 第二版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1jEpkzvnw6nqut6TPMrINmg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：swgp 
+
+## 面试系列
+
+LeetCode题解答案(Java版) &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Nr_Veo0V_IDv875qerx2Xg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：nst2
 
 ## 免责声明
 
