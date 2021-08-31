@@ -197,6 +197,32 @@ Spring Cloud与Docker微服务架构实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云�
 
 Spring Cloud微服务架构开发实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DyBIn360smNdbPco2EuHOg) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：4yei
 
+## 架构
+
+O2O实战+他们是如何利用互联网的 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/16sLDsPECvLNiLSa_s791hQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：fqmd
+
+大规模分布式存储系统：原理解析与架构实战 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1ioV_s4FiIkJiJpw0F0wMUQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：vvnk
+
+大型分布式网站架构设计与实践 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1OIqJWP0Slo_4_KiSJK0zrQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ur17
+
+大型网站技术架构：核心原理与案例分析 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/10jGO-JqHJ57KCEq-e2fmTw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：x7vt 
+
+高并发环境下的数据产品架构设计 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1hYplA6orh8hzG7wulrk8QA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gqws
+
+人人都是架构师+分布式系统架构落地与瓶颈突破 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1LqfjWIPwMuukhDQNf6wUiw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：jjdc
+
+云计算架构技术与实践+第2版 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1W56ekZPM9YEJwduIboFzAw) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：nk52
+
+架构演进：京东服务框架实践 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1Slbu3vFn8gY1NrsHWIWYyA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：e45k
+
+架构演进：汽车之家架构分析 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1h6ZQoLea1a8P0QInbHJ9tQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：ke3x
+
+架构演进：人寿系统架构演变 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1TzvcNPIhyOLyrZ9V9H1buQ) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：3x4m 
+
+架构演进：小米的经验分享 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1DxgBP8IXVgCkdYPXLDw1ug) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：xfjn
+
+架构演进：知乎架构变迁史 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1KtxG2m99TRO6lR3izgdafA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：f26v
+
 ## 操作系统
 
 计算机操作系统第三版(原版) 汤小丹 &nbsp;&nbsp;&nbsp;&nbsp; [百度云下载链接](https://pan.baidu.com/s/1dauK4Y0zhro6AdwYdbUEkA) &nbsp;&nbsp;&nbsp;&nbsp; 百度云提取码：gfds 
